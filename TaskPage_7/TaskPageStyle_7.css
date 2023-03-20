@@ -1,0 +1,248 @@
+
+@font-face {
+    font-family:  "Inter";
+    
+    src: url(./Font/Inter.ttf);
+}
+
+*{
+    box-sizing: border-box;
+}
+#SearchName{
+    height: 22px;
+    width: 152px;
+    margin-left: 150px;
+    margin-top: 43px;
+    font-family: "Inter";
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 30px;
+    text-align: left;
+}
+
+.Table_1{
+    height: 22px;
+    width: 16px;
+    margin-left: 141px;
+    margin-top: 28px;
+    border-collapse: collapse;
+    border-collapse: separate;
+    border-spacing: 10px 1px;
+}
+
+#Search{
+    height: 22px;
+    width: 109px;
+    font-family: "Inter";
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 18px;
+    text-align: left;
+    }
+
+    .ActionButton{
+        height: 22px;
+        width: 69px;
+        font-family: "Inter";
+        font-size: 15px;
+        font-weight: 700;
+        line-height: 18px;
+        text-align: center;
+    }
+
+    #TdSearch{
+        height: 45px;
+        border-radius: 10px;
+        border: 1px solid rgba(224, 224, 224, 1)
+    }
+
+    .input1{
+        width: 201px;
+        height: 45px;
+        border-radius: 10px;
+        outline: none;
+        border: none;
+        font-family: "Inter";
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 19px;
+        text-align: left;
+    }
+
+    .input2{
+        width: 593px;
+        height: 45px;
+        border-radius: 10px;
+        outline: none;
+        border: none;
+        font-family: "Inter";
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 19px;
+        text-align: left;
+    }
+
+    .input3{
+        width: 201px;
+        height: 45px;
+        border-radius: 10px;
+        outline: none;
+        border: none;
+        font-family: "Inter";
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 19px;
+        text-align: left;
+    }
+
+    .InputBaton{
+        height: 45px;
+        width: 115px;
+        border-radius: 10px;
+        background: rgba(255, 212, 58, 1);
+        outline: none;
+        border: none;
+        font-family: "Inter";
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 19px;
+        text-align: center;
+    }
+
+#TableName{
+
+    height: 22px;
+    width: 152px;
+    margin-top: 53px;
+    margin-left: 141px;
+    font-family: "Inter";
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 30px;
+}
+
+.Table_2{
+
+    border: 1px solid #DADADA;
+    border-collapse: collapse;
+    margin-top: 23px;
+    margin-left: 141px;
+}
+
+#ID{
+    background: #F9F9F9;
+    height: 57px;
+    width: 72px;
+    text-align: center;
+    font-family: "Inter";
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 18px;
+}
+
+.ID{
+
+    height: 57px;
+    width: 72px;
+    text-align: center;
+    font-family: "Inter";
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 18px;
+    
+}
+
+.Title{
+    background: #F9F9F9;
+    height: 57px;
+    width: 444px;
+    font-family: "Inter";
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 18px;
+    text-align: left;
+    padding-left: 23px;
+    margin-left: 150px;
+}
+
+.TxtData{
+    height: 57px;
+    width: 444px;
+    text-align: left;
+    padding-left: 23px;
+    font-family: "Inter";
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 18px;    
+}
+
+.CreatedAt{
+    background: #F9F9F9;
+    height: 57px;
+    width: 276px;
+    font-family: "Inter";
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 18px;
+    text-align: center;
+}
+
+.Data{
+
+    height: 57px;
+    width: 276px;
+    font-family: "Inter";
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 18px;
+    text-align: center;
+}
+
+.Action{
+
+    background: #F9F9F9;
+    height: 57px;
+    width: 368px;
+    font-family: "Inter";
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 18px;
+    text-align: center;
+}
+
+.TdBatons{
+    height: 57px;
+    width: 368px;
+    padding-left: 75px;
+    
+}
+
+.Edit{
+    
+    background: rgba(255, 212, 58, 1);
+    height: 36px;
+    width: 115px;
+    border-radius: 10px;
+    font-family: "Inter";
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 18px;
+    color: rgba(0, 0, 0, 1);
+    border-style: none;
+
+}
+
+.Delete{
+
+    background: rgba(232, 73, 73, 1);
+    height: 36px;
+    width: 115px;
+    border-radius: 10px;
+    font-family: "Inter";
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 18px;
+    color: rgba(255, 255, 255, 1);
+    border-style: none;
+
+}
